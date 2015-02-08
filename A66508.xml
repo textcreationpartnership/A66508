@@ -1058,53 +1058,71 @@ interiorem remeare, in quo terminantur, propagines infinitas ac minu<g ref="char
                         <gap reason="duplicate" extent="1 page">
                            <desc>〈1 page duplicate〉</desc>
                         </gap>
-                        <figure>
-                           <head>Tab. I.</head>
-                           <pb n="i6" facs="tcp:35504:28"/>
-                        </figure>
+                        <p>
+                           <pb facs="tcp:35504:28"/>
+                           <figure>
+                              <head>Tab. I.</head>
+                              <pb n="i6" facs="tcp:35504:28"/>
+                           </figure>
+                        </p>
                         <pb facs="tcp:35504:29"/>
                         <pb n="16" facs="tcp:35504:29"/>
                         <gap reason="duplicate" extent="1 page">
                            <desc>〈1 page duplicate〉</desc>
                         </gap>
-                        <figure>
-                           <head>Tab. II.</head>
-                           <pb n="16" facs="tcp:35504:30"/>
-                        </figure>
+                        <p>
+                           <pb facs="tcp:35504:30"/>
+                           <figure>
+                              <head>Tab. II.</head>
+                              <pb n="16" facs="tcp:35504:30"/>
+                           </figure>
+                        </p>
                         <pb facs="tcp:35504:31"/>
                         <pb n="16" facs="tcp:35504:31"/>
                         <gap reason="duplicate" extent="1 page">
                            <desc>〈1 page duplicate〉</desc>
                         </gap>
-                        <figure>
-                           <head>Tab. III.</head>
-                           <pb n="16" facs="tcp:35504:32"/>
-                        </figure>
+                        <p>
+                           <pb facs="tcp:35504:32"/>
+                           <figure>
+                              <head>Tab. III.</head>
+                              <pb n="16" facs="tcp:35504:32"/>
+                           </figure>
+                        </p>
                         <pb facs="tcp:35504:33"/>
                         <pb n="16" facs="tcp:35504:33"/>
                         <gap reason="duplicate" extent="1 page">
                            <desc>〈1 page duplicate〉</desc>
                         </gap>
-                        <figure>
-                           <head>
-                              <hi>Tab.</hi> IV.</head>
-                           <pb n="i6" facs="tcp:35504:34"/>
-                        </figure>
+                        <p>
+                           <pb facs="tcp:35504:34"/>
+                           <figure>
+                              <head>
+                                 <hi>Tab.</hi> IV.</head>
+                              <pb n="i6" facs="tcp:35504:34"/>
+                           </figure>
+                        </p>
                         <pb facs="tcp:35504:35"/>
                         <pb facs="tcp:35504:35"/>
-                        <figure>
-                           <head>Tab. VI</head>
-                           <pb n="i7" facs="tcp:35504:36"/>
-                        </figure>
+                        <p>
+                           <pb facs="tcp:35504:36"/>
+                           <figure>
+                              <head>Tab. VI</head>
+                              <pb n="i7" facs="tcp:35504:36"/>
+                           </figure>
+                        </p>
                         <pb facs="tcp:35504:37"/>
                         <gap reason="duplicate" extent="1 page">
                            <desc>〈1 page duplicate〉</desc>
                         </gap>
                         <pb facs="tcp:35504:37"/>
-                        <figure>
-                           <head>Tab. V.</head>
-                           <pb n="17" facs="tcp:35504:38"/>
-                        </figure>
+                        <p>
+                           <pb facs="tcp:35504:38"/>
+                           <figure>
+                              <head>Tab. V.</head>
+                              <pb n="17" facs="tcp:35504:38"/>
+                           </figure>
+                        </p>
                         <pb facs="tcp:35504:39"/>
                         <gap reason="duplicate" extent="1 page">
                            <desc>〈1 page duplicate〉</desc>
@@ -4971,46 +4989,61 @@ parietes transudant, indeque mox ulterius propulsi in aquam per haec vasa approp
                         <gap reason="duplicate" extent="1 page">
                            <desc>〈1 page duplicate〉</desc>
                         </gap>
-                        <figure>
-                           <head>Tab: I.</head>
-                           <pb facs="tcp:35504:132"/>
-                        </figure>
+                        <p>
+                           <pb n="i6" facs="tcp:35504:132"/>
+                           <figure>
+                              <head>Tab: I.</head>
+                              <pb facs="tcp:35504:132"/>
+                           </figure>
+                        </p>
                         <pb facs="tcp:35504:133"/>
                         <pb facs="tcp:35504:133"/>
                         <gap reason="duplicate" extent="1 page">
                            <desc>〈1 page duplicate〉</desc>
                         </gap>
-                        <figure>
-                           <head>Tab: II.</head>
-                        </figure>
+                        <p>
+                           <pb n="i6" facs="tcp:35504:134"/>
+                           <figure>
+                              <head>Tab: II.</head>
+                           </figure>
+                        </p>
                         <pb facs="tcp:35504:134"/>
                         <pb facs="tcp:35504:135"/>
                         <pb facs="tcp:35504:135"/>
                         <gap reason="duplicate" extent="1 page">
                            <desc>〈1 page duplicate〉</desc>
                         </gap>
-                        <figure>
-                           <head>Tab: III.</head>
-                           <pb facs="tcp:35504:136"/>
-                        </figure>
+                        <p>
+                           <pb n="i7" facs="tcp:35504:136"/>
+                           <figure>
+                              <head>Tab: III.</head>
+                              <pb facs="tcp:35504:136"/>
+                           </figure>
+                        </p>
                         <pb facs="tcp:35504:137"/>
                         <pb facs="tcp:35504:137"/>
                         <gap reason="duplicate" extent="1 page">
                            <desc>〈1 page duplicate〉</desc>
                         </gap>
-                        <figure>
-                           <head>Tab: IV.</head>
-                           <pb facs="tcp:35504:138"/>
-                        </figure>
+                        <p>
+                           <pb n="i7" facs="tcp:35504:138"/>
+                           <figure>
+                              <head>Tab: IV.</head>
+                              <pb facs="tcp:35504:138"/>
+                           </figure>
+                        </p>
                         <pb facs="tcp:35504:139"/>
                         <pb facs="tcp:35504:139"/>
                         <gap reason="duplicate" extent="1 page">
                            <desc>〈1 page duplicate〉</desc>
                         </gap>
-                        <figure>
-                           <head>Tab: V.</head>
-                           <pb facs="tcp:35504:140"/>
-                        </figure>
+                        <p>
+                           <pb n="18" facs="tcp:35504:140"/>
+                           <figure>
+                              <head>Tab: V.</head>
+                              <pb facs="tcp:35504:140"/>
+                           </figure>
+                        </p>
                         <pb facs="tcp:35504:141"/>
                         <gap reason="duplicate" extent="1 page">
                            <desc>〈1 page duplicate〉</desc>
@@ -5021,28 +5054,37 @@ parietes transudant, indeque mox ulterius propulsi in aquam per haec vasa approp
                         <gap reason="duplicate" extent="1 page">
                            <desc>〈1 page duplicate〉</desc>
                         </gap>
-                        <figure>
-                           <head>Tab: VI.</head>
-                           <pb facs="tcp:35504:143"/>
-                        </figure>
+                        <p>
+                           <pb n="18" facs="tcp:35504:143"/>
+                           <figure>
+                              <head>Tab: VI.</head>
+                              <pb facs="tcp:35504:143"/>
+                           </figure>
+                        </p>
                         <pb facs="tcp:35504:144"/>
                         <pb facs="tcp:35504:144"/>
                         <gap reason="duplicate" extent="1 page">
                            <desc>〈1 page duplicate〉</desc>
                         </gap>
-                        <figure>
-                           <head>Tab: VII.</head>
-                           <pb facs="tcp:35504:145"/>
-                        </figure>
+                        <p>
+                           <pb n="19" facs="tcp:35504:145"/>
+                           <figure>
+                              <head>Tab: VII.</head>
+                              <pb facs="tcp:35504:145"/>
+                           </figure>
+                        </p>
                         <pb facs="tcp:35504:146"/>
                         <pb facs="tcp:35504:146"/>
                         <gap reason="duplicate" extent="1 page">
                            <desc>〈1 page duplicate〉</desc>
                         </gap>
-                        <figure>
-                           <head>Tab: VIII.</head>
-                           <pb n="19" facs="tcp:35504:147"/>
-                        </figure>
+                        <p>
+                           <pb facs="tcp:35504:147"/>
+                           <figure>
+                              <head>Tab: VIII.</head>
+                              <pb n="19" facs="tcp:35504:147"/>
+                           </figure>
+                        </p>
                         <p>
                            <pb facs="tcp:35504:148"/>
                            <pb n="17" facs="tcp:35504:148"/>
